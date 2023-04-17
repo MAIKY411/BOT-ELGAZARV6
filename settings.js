@@ -31,7 +31,7 @@ global.botscript = '' //script link
 global.themeemoji = "♥" //ur theme emoji
 global.packname = "⍣مايكي بيحبك ياض⍣" //ur sticker watermark packname
 global.author = "⍣𝐌𝐀𝐈𝐊𝐘 𝐁𝐎𝐓⍣" //ur sticker watermark author
-global.wm = 𝐌𝐀𝐈𝐊𝐘 𝐁𝐎𝐓." //ur watermark
+global.wm = "𝐌𝐀𝐈𝐊𝐘 𝐁𝐎𝐓." //ur watermark
 
 // Other
 global.sessionName = 'session'
